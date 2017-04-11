@@ -13,3 +13,5 @@
 - [quandl - datasets](https://www.quandl.com)
 
 - json, html, excel, csv, sql
+
+- `df.rename(columns = ('before_Renmae':'after_rename'))` : rename the columns
