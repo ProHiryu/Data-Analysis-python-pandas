@@ -7,3 +7,7 @@
 - `df.Visitors.tolist()`
 
 - `np.array(df[['Visitors','Bounce Rate']]).tolist()`
+
+## pandas IO
+
+- [quandl - datasets](https://www.quandl.com)
