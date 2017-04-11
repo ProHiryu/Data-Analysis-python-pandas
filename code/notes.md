@@ -11,3 +11,5 @@
 ## pandas IO
 
 - [quandl - datasets](https://www.quandl.com)
+
+- json, html, excel, csv, sql
