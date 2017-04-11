@@ -11,4 +11,4 @@ $ pip install scipy
 $ pip install matplotlib
 ```
 
-## [Doc](\code\notes.md)
+## [Doc](/code/notes.md)
