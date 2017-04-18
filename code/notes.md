@@ -27,3 +27,11 @@
 - [merge](http://pandas.pydata.org/pandas-docs/stable/merging.html) : vs join
 
 - left right outer inner : inner is the default how
+
+## Handling Missing Data
+
+- `df.dropna(how='all',inplace=True)`
+
+- `df.fillna(method='ffill',inplace=True)`
+
+- `df.fillna(value=-99999,inplace=True)`
