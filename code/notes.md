@@ -17,3 +17,7 @@
 - `df.rename(columns = ('before_Renmae':'after_rename'))` : rename the columns
 
 - `df = pd.read_html(url)` : get all the dataframe, you need to find the target
+
+## Concatenating and Appending Dataframes
+
+- `s = pd.Series([], index = [])`
