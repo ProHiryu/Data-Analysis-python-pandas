@@ -21,3 +21,9 @@
 ## Concatenating and Appending Dataframes
 
 - `s = pd.Series([], index = [])`
+
+## Joining and Merging Dataframes
+
+- [merge](http://pandas.pydata.org/pandas-docs/stable/merging.html) : vs join
+
+- left right outer inner : inner is the default how
