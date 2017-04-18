@@ -15,3 +15,5 @@
 - json, html, excel, csv, sql
 
 - `df.rename(columns = ('before_Renmae':'after_rename'))` : rename the columns
+
+- `df = pd.read_html(url)` : get all the dataframe, you need to find the target
